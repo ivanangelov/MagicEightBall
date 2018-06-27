@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Proba</string>
+    <string name="shake_me">Shake Me</string>
+    <string name="menu_shake">Shake</string>
+
+    <string-array name="answers">
+        <item>As I see\nit</item>
+        <item>It is\ncertain</item>
+        <item>Most\nLikely</item>
+        <item>Outlook\ngood</item>
+        <item>Signs point\nto yes</item>
+        <item>Without\na doubt</item>
+        <item>Yes</item>
+        <item>Yes -\nindefinitely</item>
+        <item>You may\nrely on it</item>
+        <item>Reply hazy, \ntry again</item>
+        <item>Ask again\nlater</item>
+        <item>Better\nnot tell\nyou now\n</item>
+        <item>Cannot\npredict\nnow</item>
+        <item>Concentrate\nand ask\nagain</item>
+        <item>Don\'t count\non it</item>
+        <item>My reply\nis no</item>
+        <item>My source\nsay no</item>
+        <item>Outlook\nnot so\ngood</item>
+        <item>Very\ndoubtful</item>
+    </string-array>
+</resources>
